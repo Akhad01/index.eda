@@ -395,4 +395,50 @@ body {
 .social-link {
     margin-left: 20px;
     text-decoration: none;
+} 
+.benefits {
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.advantage-content {
+    margin-top: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+.advantage-card {
+    flex: 50%;
+    max-width: 270px;
+    border-radius: 18px;
+    border: 1px solid #E9E9E9;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+}
+.advantage-card-content {
+    text-align: center;
+}
+.advantage-title {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 23px;
+}
+.advantage-title-card {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    max-width: 188px;
+    margin: 0 auto;
+
+}
+.advantage-description {
+    margin: auto;
+    font-size: 14px;
+    text-align: center;
+    line-height: 22px;
+    color: #49494F;
+    margin-bottom: 25px;
+    margin-top: 13px;
+    max-width: 223px;
+}
+.advantage-image {
+    margin-top: 30px;
+    margin-bottom: 34px;
 }
